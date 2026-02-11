@@ -21,7 +21,7 @@ function App() {
             <li><Link to="/contact">Contact</Link></li>
             <li title="Follow us on Instagram">
               <SocialIcon
-                url="https://instagram.com"
+                url="https://www.instagram.com/prestigeorganizing"
                 network="instagram"
                 bgColor="transparent"
                 fgColor="#1a1a1a"
@@ -44,9 +44,10 @@ function App() {
       <footer className="footer">
         <div className="footer-inner">
           <p className="footer-copy">© Prestige Organizing. All rights reserved.</p>
+          <p className="footer-phone"><a href="tel:+13476417725">(347) 641-7725</a></p>
           <span title="Follow us on Instagram">
             <SocialIcon
-              url="https://instagram.com"
+              url="https://www.instagram.com/prestigeorganizing"
               network="instagram"
               bgColor="transparent"
               fgColor="#1a1a1a"

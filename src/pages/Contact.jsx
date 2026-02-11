@@ -47,7 +47,7 @@ function Contact() {
           <div className="contact-info">
             <p>Your address here</p>
             <p><a href="mailto:info@prestigeorganizing.com">info@prestigeorganizing.com</a></p>
-            <p><a href="tel:+1234567890">(123) 456-7890</a></p>
+            <p><a href="tel:+13476417725">(347) 641-7725</a></p>
           </div>
           <form
             className="contact-form"

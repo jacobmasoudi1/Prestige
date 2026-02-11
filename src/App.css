@@ -571,8 +571,13 @@ main {
   flex-wrap: wrap;
 }
 
-.footer-copy {
+.footer-copy,
+.footer-phone {
   margin: 0;
+}
+
+.footer-phone a {
+  color: var(--color-black);
 }
 
 .footer a {
