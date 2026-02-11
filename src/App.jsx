@@ -11,9 +11,7 @@ function App() {
     <div className="app">
       <header className="header">
         <nav className="nav">
-          <Link to="/" className="logo-block">
-            <img src="/logo.png" alt="Prestige Organizing" className="logo-img" />
-          </Link>
+          {/* <Link to="/" className="logo-text">Prestige Organizing</Link> */}
           <ul className="nav-links">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/services">Services</Link></li>
